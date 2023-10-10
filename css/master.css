@@ -263,6 +263,9 @@ body{
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
 }
+.portfolio .container .special-heading {
+    color: #333;
+}
 .portfolio .portfolio-content {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
